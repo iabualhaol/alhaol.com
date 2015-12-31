@@ -19,3 +19,6 @@ git push -u origin master
 
 
  # Author Ibrahim Abualhaol
+
+You can add files that you need to ignore in tracking to by adding 
+them to .gitignore file  
