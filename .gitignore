@@ -1,6 +1,7 @@
 # My source files
 ##################### 
 *.tex 
+Lastversion/
 #Compiled source #
 ###################
 *.com
